@@ -1,0 +1,45 @@
+@font-face {
+    font-family:font age;
+    src: url(../Fuentes-AOE2/LCALLIG.TTF);
+}
+body{
+   background-image:url("../img/papiro.jpg");
+   background-size:contain;
+   font-family: font age;
+}
+h1,h2{
+    text-shadow: 0px 0px 5px#D4AC0D;
+}
+.container{
+    background-color: black;
+    color:rgb(234, 227, 241);
+    margin-left:15%;
+    margin-right: 15%;
+    padding:5px 8px 5px 8px ;
+    border:5px solid white ;
+    font-size: large;
+}
+img{
+     margin-left: 40%;
+     margin-right: 40%;
+     width: 200px;
+     height: 200px;
+     border: 3px solid #D4AC0D
+}
+
+#button1{
+    width: 5%;
+    height: 5%;
+    margin-left: 4px;
+    padding: 1px;
+}
+#foot{
+    color: whitesmoke;
+    background-color:black ;
+    display: inline-block;
+    font-size: large;
+    text-shadow: 0px 0px 5px#D4AC0D;
+    margin-top:100px;
+  
+}
+
